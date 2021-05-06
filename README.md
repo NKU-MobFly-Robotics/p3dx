@@ -1,2 +1,2 @@
 # Pioneer 3-DX Simulator
-See https://github.com/BruceChanJianLe/p3dx
+This repo contains the materials for Pioneer 3-DX mobile robot simulation in Gazebo. The original code comes from https://github.com/BruceChanJianLe/p3dx. Thanks go to CHAN JIAN LE.
