@@ -76,7 +76,7 @@
           <noise>
             <type>gaussian</type>
             <mean>0.0</mean>
-            <stddev>0.01</stddev>
+            <stddev>0.001</stddev>
           </noise>
         </ray>
         <plugin name="${prefix}_controller" filename="${plugin_lib}">
