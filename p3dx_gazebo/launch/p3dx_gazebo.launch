@@ -13,7 +13,7 @@
   <!-- Robot pose -->
   <arg name="initial_pose_x" default="0.0"/>
   <arg name="initial_pose_y" default="0.0"/>
-  <arg name="initial_pose_a" default="1.5708"/>
+  <arg name="initial_pose_a" default="0.0"/>
 
   <!-- Running gazebo simulation platform -->
   <!-- <include file="$(find gazebo_ros)/launch/empty_world.launch">
