@@ -3,7 +3,7 @@ This repo contains the materials for Pioneer 3-DX mobile robot simulation in Gaz
 
 ## Requirements
 ```
-$ sudo apt-get install ros-melodic-gazebo-ros-control ros-melodic-diff-drive-controller ros-melodic-joint-state-controller ros-melodic-robot-state-publisher
+sudo apt-get install ros-melodic-gazebo-ros-control ros-melodic-diff-drive-controller ros-melodic-joint-state-controller ros-melodic-robot-state-publisher
 ```
 
 ## Clone and build
